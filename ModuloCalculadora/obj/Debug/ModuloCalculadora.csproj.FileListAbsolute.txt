@@ -1,0 +1,6 @@
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\ModuloCalculadora\bin\Debug\ModuloCalculadora.dll
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\ModuloCalculadora\bin\Debug\ModuloCalculadora.pdb
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\ModuloCalculadora\obj\Debug\ModuloCalculadora.csproj.AssemblyReference.cache
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\ModuloCalculadora\obj\Debug\ModuloCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\ModuloCalculadora\obj\Debug\ModuloCalculadora.dll
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\ModuloCalculadora\obj\Debug\ModuloCalculadora.pdb

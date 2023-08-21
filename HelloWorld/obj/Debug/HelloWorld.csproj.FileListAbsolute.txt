@@ -1,0 +1,7 @@
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\HelloWorld\obj\Debug\HelloWorld.pdb

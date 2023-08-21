@@ -1,0 +1,7 @@
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\OMundoDasClassesParte1\bin\Debug\OMundoDasClassesParte1.exe.config
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\OMundoDasClassesParte1\bin\Debug\OMundoDasClassesParte1.exe
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\OMundoDasClassesParte1\bin\Debug\OMundoDasClassesParte1.pdb
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\OMundoDasClassesParte1\obj\Debug\OMundoDasClassesParte1.csproj.AssemblyReference.cache
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\OMundoDasClassesParte1\obj\Debug\OMundoDasClassesParte1.csproj.CoreCompileInputs.cache
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\OMundoDasClassesParte1\obj\Debug\OMundoDasClassesParte1.exe
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\OMundoDasClassesParte1\obj\Debug\OMundoDasClassesParte1.pdb

@@ -1,0 +1,7 @@
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe.config
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\TiposEVariaveis\bin\Debug\TiposEVariaveis.pdb
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.AssemblyReference.cache
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\TiposEVariaveis\obj\Debug\TiposEVariaveis.exe
+C:\Users\lucas.florentino\source\repos\IntroducaoAoCSharp\TiposEVariaveis\obj\Debug\TiposEVariaveis.pdb
